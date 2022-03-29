@@ -1,6 +1,6 @@
 # Usefull Git Commands
 ![](https://www.hostinger.web.tr/rehberler/wp-content/uploads/sites/6/2017/05/github-kullanimi-basit-git-komutlari-1-768x478.png)
-### _To check whether git is uploaded or not and introduce yourself to global
+### _To check whether git is uploaded or not and introduce yourself to global_
 1. 'git --version'
 
  + 'git config --global user.name "user name"'
@@ -44,3 +44,4 @@
 17. 'git commit --amend -m'
  * If you want to change your commit message you can use this command 
  
+[If you need more information about git commands, click here](https://git-scm.com/book/en/v2)
