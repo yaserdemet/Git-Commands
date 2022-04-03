@@ -42,6 +42,8 @@
 16. `git diff ID1.ID2`
   * This command shows diffrences between two commits.
 17. `git commit --amend -m`
- * If you want to change your commit message you can use this command 
+ * If you want to change your commit message you can use this command
+
+[](https://miro.medium.com/max/1400/0*1P9u498jpjJ304lu.jpg)
  
 :round_pushpin: [If you need more information about git commands, click here](https://git-scm.com/book/en/v2)
