@@ -44,4 +44,4 @@
 17. `git commit --amend -m`
  * If you want to change your commit message you can use this command 
  
-[If you need more information about git commands, click here](https://git-scm.com/book/en/v2)
+:round_pushpin: [If you need more information about git commands, click here](https://git-scm.com/book/en/v2)
