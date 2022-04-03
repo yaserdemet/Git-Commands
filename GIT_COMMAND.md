@@ -1,6 +1,6 @@
 # Usefull Git Commands
 ![](https://www.hostinger.web.tr/rehberler/wp-content/uploads/sites/6/2017/05/github-kullanimi-basit-git-komutlari-1-768x478.png)
-### _To check whether git is uploaded or not and introduce yourself to global_
+### _To check whether git is uploaded or not and introduce yourself to global :earth_americas:_
 1. `git --version`
 
  + `git config --global user.name "user name"`
