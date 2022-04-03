@@ -19,9 +19,13 @@
   * It will save your changes in local repository. And make a point which can be backed in case of wanting
 
 6. `git push`
-  * This command will sent all changes which happen in your local repository to your Github account.
+  * This command will sent all changes which happen in your local repository to your Github account
+  
 7. `git pull`
   * This command bring  all changes from Github repository to local repo.
+  *  <br>
+![](https://miro.medium.com/max/1400/0*1P9u498jpjJ304lu.jpg)
+
 8. `git log`
   * It will list all your commits history which have made until now.
 9. `git log -n5`
@@ -43,7 +47,5 @@
   * This command shows diffrences between two commits.
 17. `git commit --amend -m`
  * If you want to change your commit message you can use this command
-
-[](https://miro.medium.com/max/1400/0*1P9u498jpjJ304lu.jpg)
  
 :round_pushpin: [If you need more information about git commands, click here](https://git-scm.com/book/en/v2)
